@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\USER\\.virtualenvs\\books-K3PrwXL9\\Scripts\\python.exe"
+    "python.pythonPath": "C:\\Users\\USER\\.virtualenvs\\books-K3PrwXL9\\Scripts\\python.exe",
+    "python.linting.enabled": false,
 }
